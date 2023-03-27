@@ -17,8 +17,11 @@ The main purpose of the dataset is to train and test reinforcement learning agen
 ToM Level Definitions: 
 
 Level 0: Sentences that do not mention other people at all 
+
 Level 1: Sentences that mention other people but do not involve mentalizing others' minds.
+
 Level 2: Sentences that involve mentalizing others' minds but do not necessarily take their perspective (either positively or negatively) or may judge them negatively.
+
 Level 3: Sentences that involve taking the perspective of others, curious about others' thoughts consideration of their thoughts and feelings. Depending on the context, some sentences may not connotate positive, empathetic assumption of others.  
 
 _Note_
@@ -102,8 +105,8 @@ There are two publications related to the dataset. Please cite BOTH papers along
 
 [1] Lee, Y., Jung, Y., Lee, I., Park, J., & Hahn, S. (2021a). Building a Psychological Ground Truth Dataset with Empathy and Theory-of-Mind During the COVID-19 Pandemic. Proceedings of the Annual Meeting of the Cognitive Science Society, 43. Retrieved from https://escholarship.org/uc/item/950900w7
 
-[2] Lee, Y. K., Lee, I., Park, J. E., Jung, Y., Kim, J., & Hahn, S. (2021b). A Computational Approach to Measure Empathy and Theory-of-Mind from Written Texts. arXiv preprint arXiv:2108.11810. Retreived from :https://arxiv.org/abs/2108.11810,[Dataset](https://github.com/humanfactorspsych/covid19-tom-empathy-diary
-)
+[2] Lee, Y. K., Lee, I., Park, J. E., Jung, Y., Kim, J., & Hahn, S. (2021b). A Computational Approach to Measure Empathy and Theory-of-Mind from Written Texts. arXiv preprint arXiv:2108.11810. Retreived from :https://arxiv.org/abs/2108.11810,
+[Dataset](https://github.com/humanfactorspsych/covid19-tom-empathy-diary)
 
 
 ## Ethics and Disclaimer
